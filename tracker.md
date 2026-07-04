@@ -10,6 +10,7 @@ Scope: Use of AI/LLMs to draft, calculate, or assemble climate & sustainability 
 
 ### Findings
 - **2026-06-15** — [Workiva Launches Agentic AI Sustainability Reporting Solution](https://www.esgtoday.com/workiva-launches-agentic-ai-sustainability-reporting-solution/) — New "Sustainability Disclosure Agent" scans prior-cycle disclosures against ESRS/IFRS S1/S2 requirements to flag present/partial/missing content and draft a first pass, but is designed to run inside Workiva's governed platform with audit trails/version control and to leave interpretation and final sign-off to human teams — a concrete example of guardrails being built around AI-drafted climate disclosures.
+- **2026-07-04** — [From reporting to reality: How CSRD 2.0 elevates the role of data and AI in ESG](https://kpmg.com/be/en/home/insights/2026/01/ta-from-reporting-to-reality-how-csrd-2-0-elevates-the-role-of-data-and-ai-in-esg.html) — KPMG argues that CSRD 2.0/the amended ESRS cut disclosure volume but raise the bar on how AI-assisted ESG data is sourced, validated, and governed, calling for ESG data to sit inside the same governed environment as finance/risk data with clear ownership, version control, and traceable lineage.
 
 ---
 
@@ -20,6 +21,7 @@ Scope: The thesis that AI governance should be treated as an internal-controls /
 ### Findings
 - **2026-02-23** — [Achieving Effective Internal Control Over Generative AI](https://www.coso.org/generative-ai) — COSO's first formal extension of its 2013 Internal Control–Integrated Framework to GenAI: maps the five components/17 principles onto eight GenAI capability types (ingestion, transformation, posting, orchestration, judgment, monitoring, regulatory intelligence, human-AI interaction) and lays out a six-step govern/inventory/assess/design/implement/monitor roadmap — the clearest primary-source articulation to date of "AI governance as a controls problem."
 - **2026-06-24** — [Typeform Achieves ISO/IEC 42001 Certification for Responsible AI Management](https://www.prnewswire.com/news-releases/typeform-achieves-isoiec-42001-certification-for-responsible-ai-management-302808030.html) — Typeform (June 24) and Emburse (June 12) both achieved ISO/IEC 42001 AI-management-system certification this cycle, continuing a steady drumbeat of companies using the standard as an externally-audited controls framework to demonstrate AI governance rather than relying on internal policy alone.
+- **2026-07-04** — [Treasury Releases Two New Resources to Guide AI Use in the Financial Sector](https://home.treasury.gov/news/press-releases/sb0401) — On Feb 19, 2026 the U.S. Treasury published a shared AI Lexicon and the Financial Services AI Risk Management Framework (FS AI RMF), a sector adaptation of NIST's AI RMF built with 100+ financial institutions and agencies that spells out roughly 230 control objectives across govern/map/measure/manage — a concrete new sector-specific control framework mapping AI risk to examiner-testable requirements.
 
 ---
 
@@ -29,6 +31,7 @@ Scope: Operating effectiveness vs. design effectiveness; evidence, testing, and 
 
 ### Findings
 - **2026-04-13** — [A widening 'AI proof gap' is emerging](https://www.grantthornton.com/insights/press-releases/2026/april/grant-thornton-survey-on-ai-proof-gap) — Grant Thornton's 2026 AI Impact Survey (950 executives, Feb–Mar 2026) found 78% of leaders lack strong confidence they could pass an independent AI governance audit within 90 days, and only 1 in 5 organizations running/piloting autonomous AI has actually tested a response plan for AI failures — direct quantitative evidence of the design-vs-operating-effectiveness gap in AI governance.
+- **2026-07-04** — [Cutting Through the AI Hype: The 2026 AI Pulse Poll](https://www.isaca.org/resources/ai-pulse-poll) — ISACA's May 2026 poll of 3,400+ digital trust professionals found only 38% of organizations have a formal, comprehensive AI policy (up from 28% in 2025) while 25% have no active policy at all, and highlighted a pervasive "observability gap" where practitioners can't say whether their AI controls are actually functioning — separate quantitative evidence of the design-vs-operating gap, distinct from the already-logged Grant Thornton survey.
 
 ---
 
@@ -38,6 +41,7 @@ Scope: Assurance standards and their application to AI-produced data/disclosures
 
 ### Findings
 - **2026-02-10** — [IAASB to pursue non-authoritative guidance for AI](https://www.accountingtoday.com/news/iaasb-to-pursue-non-authoritative-guidance-for-ai) — After eight global roundtables with 240+ stakeholders, the IAASB decided to address AI's practical challenges to existing assurance standards via non-authoritative guidance rather than new authoritative standards for now, with a formal action plan discussed at its March 2026 meeting — signals how (and how fast) assurance standard-setters intend to formalize what "AI assurance" requires.
+- **2026-07-04** — [EY launches enterprise-scale agentic AI to redefine the audit experience for the AI era](https://www.ey.com/en_us/newsroom/2026/04/ey-launches-enterprise-scale-agentic-ai-to-redefine-the-audit-experience-for-the-ai-era) — EY announced in April 2026 a global rollout of a multi-agent AI framework (built on Microsoft Azure/Foundry/Fabric) embedded into EY Canvas, its assurance platform spanning 160,000 audit engagements in 150+ countries, to orchestrate audit tasks and risk assessment while stating that human judgment and final sign-off remain with auditors — a concrete look at how a Big Four firm is operationalizing AI inside the assurance process itself, ahead of full end-to-end coverage targeted for 2028.
 
 ---
 
@@ -48,6 +52,7 @@ Scope: Technical and control mechanisms for AI auditability — immutable/tamper
 ### Findings
 - **2026-04-16** — [What the EU AI Act requires for AI agent logging](https://www.helpnetsecurity.com/2026/04/16/eu-ai-act-logging-requirements/) — Article 12 requires high-risk AI systems to have automatic event logging built into core design (not bolted on afterward), with logs structured, searchable, and attributable to a specific agent/action; Article 19 sets a minimum 6-month retention period; two draft technical standards (prEN 18229-1, ISO/IEC DIS 24970) are in progress ahead of the August 2, 2026 Annex III enforcement date.
 - **2026-01-05** — [The C2PA Launches Content Credentials 2.3](https://c2pa.org/the-c2pa-launches-content-credentials-2-3-and-celebrates-5-years-of-impact-across-the-digital-ecosystem/) — New spec version adds provenance support for live video and cross-platform credential portability; C2PA's AI-assertion type is positioned to help satisfy the EU AI Act's AI-generated-content transparency/labeling requirement taking effect August 2026, making it a candidate provenance/lineage standard for AI audit trails.
+- **2026-07-04** — [Artificial Intelligence: Council and Parliament agree to simplify and streamline rules](https://www.consilium.europa.eu/en/press/press-releases/2026/05/07/artificial-intelligence-council-and-parliament-agree-to-simplify-and-streamline-rules/) — On May 7, 2026 the EU Council and Parliament reached provisional agreement on the "Digital Omnibus on AI," deferring high-risk AI Act obligations — including Article 12's automatic-logging/traceability requirements — for stand-alone Annex III systems to Dec 2, 2027, and for AI embedded in regulated Annex I products to Aug 2, 2028; this directly supersedes the Aug 2, 2026 enforcement date cited in the tracker's earlier logging-requirements entry.
 
 ---
 
@@ -58,7 +63,8 @@ Scope: Practitioner (ESG controller, sustainability controller, external auditor
 ### Findings
 - **2026-06-03** — [More Disclosures, Less Clarity: The Scope 3 Data Quality Challenge](https://www.iss-stoxx.com/insights/articles/more-disclosures-less-clarity-the-scope-3-data-quality-challenge/) — Despite Scope 3 disclosure volume growing >12%/year since 2020, a significant share of reported Scope 3 data still fails quality review and must be replaced with modeled estimates; incomplete coverage/inconsistent boundaries are the top rejection drivers in Financials, Energy, and Industrials, and financed emissions (Category 15) are frequently omitted by banks — understating true climate risk exposure.
 - **2026-06-01** — [Why is Scope 3 so complicated for financial services?](https://www.icaew.com/insights/viewpoints-on-the-news/2026/jun-2026/why-is-scope-3-so-complicated-for-financial-services) — ICAEW, working with the Partnership for Carbon Accounting Financials, published Scope 3 case studies across retail banking, investment banking, insurance, and asset management, highlighting that financed emissions depend on activities firms fund rather than control, driving data gaps, timing mismatches, and double-counting risk that controllers must manage.
+- **2026-07-04** — [Scope 3 Standard Revisions: Phase 1 Progress Update](https://ghgprotocol.org/scope-3-standard-revisions-phase-1-progress-update) — GHG Protocol's March 31, 2026 progress update (from a 65-member Technical Working Group) proposes mandatory disaggregation of Scope 3 emissions into Primary vs. Secondary Data with new Data Quality Indicators, a 95% coverage floor requiring companies to quantify and justify any exclusions, and a new Category 16 for previously uncaptured value-chain activities — a concrete reshaping of the data-quality bar ESG controllers will have to meet, with a full public consultation draft expected mid-2026.
 
 ---
 
-_Last updated: 2026-07-03 — 9 new findings added (initial population of all 6 topics)_
+_Last updated: 2026-07-04 — 6 new findings added (one per topic)_
