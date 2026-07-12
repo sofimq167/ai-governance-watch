@@ -99,4 +99,4 @@ Scope: Practitioner (ESG controller, sustainability controller, external auditor
 
 ---
 
-_Last updated: 2026-07-11 — 12 new findings added (topics 1: 3, 2: 1, 3: 2, 4: 3, 5: 2, 6: 1)_
+_Last updated: 2026-07-12 — 0 new findings added; a WebFetch tooling outage in this session blocked source verification for all 6 topics (every domain returned HTTP 403, including sec.gov, wikipedia.org, and google.com), so no unverified candidates were appended. Retry recommended once fetch access is restored._
